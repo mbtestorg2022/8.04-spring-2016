@@ -4,6 +4,7 @@ description: 'This resource contains information regarding quantum physics: Lect
   Note 18.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-04-quantum-physics-i-spring-2016/3278c7c54db6f82b233fca84f1ecf3ea_MIT8_04S16_LecNotes18.pdf
 file_type: application/pdf
+parent_uid: 6947b4d2-b0d7-3d15-9ba3-638f887f2509
 resourcetype: Document
 title: Quantum Physics I, Lecture Note 18
 uid: 3278c7c5-4db6-f82b-233f-ca84f1ecf3ea
